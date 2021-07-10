@@ -2,9 +2,6 @@
 
 [![ZaDarkSide's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaDarkSide&langs_count=15&layout=compact&theme=dracula)](https://github.com/ZaDarkSide)
 
-[![ZaDarkSide's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZaDarkSide&theme=dracula)](https://github.com/ZaDarkSide)
-
-
 <a href="https://github.com/ZaDarkSide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZaDarkSide&repo=simpleStorage&theme=dracula" />
 </a>
